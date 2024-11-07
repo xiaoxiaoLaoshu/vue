@@ -1,6 +1,6 @@
 # vue
 
-## This is vue, and something about vue dome 
+## This is Vue3 dome.
 
 ## Project setup
 ```
